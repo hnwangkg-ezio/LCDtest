@@ -1,0 +1,22 @@
+{
+    "name": "lcd",
+    "version": "0.0.0",
+    "description": "test",
+    "license": "mit",
+    "dependencies": {
+        "core": "*",
+        "radio": "*"
+    },
+    "files": [
+        "README.md",
+        "main.ts",
+        "extension.cpp",
+        "extension.ts",
+        "shims.d.ts",
+        "enums.d.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": false
+}
